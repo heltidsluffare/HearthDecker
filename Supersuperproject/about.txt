@@ -1,0 +1,16 @@
+HearthDecker is a utility for the game HearthStone to track which cards you have drawn and which card is left in your deck.
+
+Version: Beta 0.4.20140201
+
+For questions: 
+https://twitter.com/Heltidsluffare
+
+For instructions: 
+https://www.youtube.com/user/heltidsluffare
+
+For blog, changelog and new versions: 
+http://hearthdecker.blogspot.se/
+
+Made by Anton Ekberg. All Rights Reserved.
+Thanks to Lars, Michele, Soili and Calvin for all your help.
+
