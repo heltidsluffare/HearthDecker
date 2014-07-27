@@ -1,4 +1,4 @@
-hearthdecker
+HearthDecker
 ============
 HearthDecker is a utility for the game HearthStone to track which cards you have drawn and which card is left in your deck.
 
